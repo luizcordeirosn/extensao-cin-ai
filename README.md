@@ -21,7 +21,6 @@ O repositório está organizado por desafios, cada um focado em uma área espec�
 | `Desafio_04_Modelagem_de_dados_com...ipynb` | Modelagem de Dados. | Orange Workflow |
 | `Desafio_05_Equipamento_defeituoso.ows` | Análise e classificação de dados para identificar equipamentos defeituosos. | Orange Workflow |
 | `Desafio_07_Treinamento_de_modelos_C...ipynb` | Treinamento de modelos clássicos de Machine Learning. | Jupyter Notebook |
-
 | `Desafio_08_Chatbot.ipynb` | Desenvolvimento de um chatbot. | Jupyter Notebook |
 | `Desafio_08_Expanding.ipynb` | Aplicação do princípio de Expansão para geração de textos. | Jupyter Notebook |
 | `Desafio_08_Guidelines.ipynb` | Boas práticas e diretrizes para a criação de prompts. | Jupyter Notebook |
